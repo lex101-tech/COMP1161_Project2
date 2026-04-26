@@ -1,0 +1,3 @@
+/home/alex/score_620171143/Project2.26
+/home/alex/score_620171143/Project2.26/cases
+/home/alex/score_620171143/Project2.26/javadoc
